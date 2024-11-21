@@ -10,6 +10,9 @@ Diese Sprachen werden ja heutzutage nicht mehr verwendet, deswegen werde ich mic
 befassen. Mal sehen was daraus wird.
 </german>
 
+-----------------------------------------------------------------------------------------------------
+
+
 <english>
 Once upon a time PL1, COBOL with JCL and Assembler had been the First languages on Mainframes,e.g. computers.
 But todady it is C++ and C# and now I am starting a project, for myself to lern C++ and C#.
