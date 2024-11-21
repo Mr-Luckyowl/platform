@@ -15,7 +15,7 @@ befassen. Mal sehen was daraus wird.
 
 <english>
 Once upon a time PL1, COBOL with JCL and Assembler had been the First languages on Mainframes,e.g. computers.
-But todady it is C++ and C# and now I am starting a project, for myself to lern C++ and C#.
+But todady it is C++ and C# and now I am starting a project, for myself to learn C++ and C#.
 Wtf and sorry for that.
 
 </english>
